@@ -2,11 +2,11 @@
 
 ---
 
-## 1. 📲 App Installation Hack / Hack d'Installation d'Applications
+## 1. 📲 App installation hack / Hack d'installation d'applications
 
 ### 🇬🇧 English
 
-#### Solution 1: Fake App  
+#### Solution 1: Fake app  
 - **Concept:** 🎭 Create a fake application using an existing package name  
 - **Tool:** [APK Builder](https://github.com/Thydekar/innioasis-g1-apk-builder) 🔨  
 - **Steps:**  
@@ -14,7 +14,7 @@
   2. ✏️ Modify target app's package name  
   3. ⬇️ Install disguised app  
 
-#### Solution 2: System Image Integration  
+#### Solution 2: System image integration  
 - **Concept:** 💾 Embed app into `system.img` or `vendor.img`
 - **Note:** ⚠️ **Can be combined with Solution 1 (untested)**  
 - **Steps:**  
@@ -33,7 +33,7 @@
 
 ### 🇫🇷 Français
 
-#### Solution 1 : Fake App  
+#### Solution 1 : Fake app  
 - **Principe :** 🎭 Créer une fausse application avec un package name existant  
 - **Outil :** [APK Builder](https://github.com/Thydekar/innioasis-g1-apk-builder) 🔨  
 - **Étapes :**  
@@ -41,7 +41,7 @@
   2. ✏️ Modifier le package name  
   3. ⬇️ Installer l'app déguisée  
 
-#### Solution 2 : Intégration Système  
+#### Solution 2 : Intégration système  
 - **Principe :** 💾 Injecter dans `system.img` ou `vendor.img`
 - **Remarque :** ⚠️ **Combinaison avec Solution 1 possible (non testé)**  
 - **Étapes :**  
@@ -58,7 +58,7 @@
 
 ---
 
-## 2. 🔓 Device Unlock / Déverrouillage d'Appareil
+## 2. 🔓 Device unlock / Déverrouillage d'appareil
 
 ### 🇬🇧 English  
 - **Purpose:** Reset forgotten lock code
